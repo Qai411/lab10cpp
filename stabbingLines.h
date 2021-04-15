@@ -8,6 +8,7 @@ using namespace std;
 typedef int PointId;
 typedef int LineId;
 struct Point
+
 {              //define a Point struct
   PointId Pid; // Point Id
   int x;       // x-coordinate of a point
