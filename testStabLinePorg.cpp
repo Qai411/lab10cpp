@@ -4,10 +4,7 @@
 
 using namespace std;
 
-Point points[7];
-Point a;
-
-ifstream fileReadPoints("nameOfFile.txt");
+ifstream fileReadPoints("points.txt");
 
 int main()
 {
